@@ -454,12 +454,12 @@ textarea {
 }
 
 .col-seven {
-  width: 58.33333%;
+  width: 59%;
 }
 
 .col-eight,
 .col-2-3 {
-  width: 66.66667%;
+  width: 67%;
 }
 
 .col-nine,
@@ -469,16 +469,16 @@ textarea {
 
 .col-ten,
 .col-5-6 {
-  width: 83.33333%;
+  width: 83%;
 }
 
 .col-eleven {
-  width: 91.66667%;
+  width: 92%;
 }
 
 .col-twelve,
 .col-full {
-  width: 100%;
+  width: 80%;
 }
 
 
@@ -532,7 +532,7 @@ textarea {
     width: 83.33333%;
   }
   .md-eleven {
-    width: 91.66667%;
+    width: 92%;
   }
   .md-twelve,
   .md-full {
